@@ -1,0 +1,6 @@
+def solution(n):
+    result = n
+    for i in range(1, n):
+        if n % i == 0:
+            result += i
+    return result
