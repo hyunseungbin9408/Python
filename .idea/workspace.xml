@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="370d7a8e-617f-44b0-8998-623c889fde03" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level_2/Next_big_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level_2/Pairing_off.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level_2/carpet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level_2/expression_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level_2/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level_2/jadoncase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level_2/lifeboat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level_2/max_min.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level_2/minimum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level_2/repeat_binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level_2/right_word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level_2/shiritori.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2F7BqBeWN7MjntVxxkqMppjpDbI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/파이참",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\파이썬\Python\Level_2" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="370d7a8e-617f-44b0-8998-623c889fde03" name="Changes" comment="" />
+      <created>1663833430591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663833430591</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

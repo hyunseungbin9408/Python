@@ -1,0 +1,30 @@
+%%html
+
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script>
+    function qrcodeMake(){
+        var text = $.trim($("#data").val());
+        console.log(text);
+        $.ajax({
+            url: "{{ url_for('make_qrcode') }}",
+            type: "POST",
+            cache: false,
+            data: {"text": text},
+            success: function(result) {
+                console.log(result);
+                base64 = result.data;
+                tag = "<img src='data:image/png;base64, " + base64 + "'>";
+                console.log(tag);
+                $("#qrcode").append(tag);
+            },
+            error: function(request, status, error) {
+                var msg = "ERROR : " + request.status + "<br>"
+                msg +=  + "내용 : " + request.responseText + "<br>" + error;
+                console.log(msg);  
+            }
+        });
+    }
+</script>
+<input type="text" id="data" size="70" value="https://www.naver.com">
+<input type="button" value="생성" onclick="qrcodeMake()">
+<div id="qrcode"></div>
